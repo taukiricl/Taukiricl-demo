@@ -10,7 +10,7 @@ namespace RestAPI.DeliveryPlans
         public Plans(IADOConfiguration configuration) : base(configuration) { }
 
         /// <summary>
-        /// Create Delivery plants
+        /// Create Delivery plans added
         /// </summary>
         /// <param name="json"></param>
         /// <param name="project"></param>
